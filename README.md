@@ -44,8 +44,7 @@ pip install seaborn
 pip install re 
 ##### Usage
 Clone this repository to your local machine:
-git clone https://github.com/kapilsinghnegi/Fake-News-Detection.git
-Navigate to the project directory:
+https://github.com/Ankitkumar1141/Fake-news-Prediction.git
 cd fake-news-detection
 Execute the Jupyter Notebook or Python scripts associated with each classifier to train and test the models. For example:
 python random_forest_classifier.py
